@@ -4,7 +4,7 @@ This repository contains a curated dataset of phishing and malicious messages, a
 
 The primary goal of the Hades model is to accurately classify incoming messages as either phishing/malicious or benign, enabling automated detection and filtering of potentially harmful content.
 
-[Hades](https://chat.openai.com/g/g-l6uZp1RFI-hades)
+[HadesGPT](https://chat.openai.com/g/g-l6uZp1RFI-hades) on OpenAI
 
 ## Dataset Structure
 
